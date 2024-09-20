@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = D:\Shopmenagement\Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Shopmenagement\Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Group/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR3JvdXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Member/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVtYmVyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Report/IncomeByMonth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XEluY29tZUJ5TW9udGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Areas/Admin/Views/Shared/_Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Acticle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shared/IsComming.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXElzQ29tbWluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shopdetail/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcGRldGFpbFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shopdetail/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcGRldGFpbFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shopdetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcGRldGFpbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Blazer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxCbGF6ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Jumpsuits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxKdW1wc3VpdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Kid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxLaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Men.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxNZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Shose.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxTaG9zZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Tecnology.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxUZWNub2xvZ3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Watch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxXYXRjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shop/Women.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxXb21lbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shopmenagement/Web/Views/Shared/_Site.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-vsgocqcvb7

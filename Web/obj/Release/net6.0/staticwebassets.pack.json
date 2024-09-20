@@ -1,0 +1,1797 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-1a.jpg",
+      "PackagePath": "staticwebassets\\img\\about-1a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-2a.jpg",
+      "PackagePath": "staticwebassets\\img\\about-2a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-3a.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-4a.jpg",
+      "PackagePath": "staticwebassets\\img\\about-4a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-5.jpg",
+      "PackagePath": "staticwebassets\\img\\about-5.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\about-6.jpg",
+      "PackagePath": "staticwebassets\\img\\about-6.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\article.jpg",
+      "PackagePath": "staticwebassets\\img\\article.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\articlea.jpg",
+      "PackagePath": "staticwebassets\\img\\articlea.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\carousel-1b.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1b.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\carousel-2a.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\logoa.png",
+      "PackagePath": "staticwebassets\\img\\logoa.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\news\\1678433493119_mit3.jpeg",
+      "PackagePath": "staticwebassets\\img\\news\\1678433493119_mit3.jpeg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\news\\2022_12_6_638059635594053165_trello-3.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\2022_12_6_638059635594053165_trello-3.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\news\\articlea.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\articlea.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-1a.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-2a.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-3a.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-4a.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\product-bg.png",
+      "PackagePath": "staticwebassets\\img\\product-bg.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\products\\product-1a.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-1a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\products\\product-3a.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-3a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\products\\product-4a.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-4a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\store-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-1.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\store-product-1a.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-1a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\store-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-2.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\store-product-2a.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-2a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\store-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-3.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\store-product-3a.jpg",
+      "PackagePath": "staticwebassets\\img\\store-product-3a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\testimonial-2a.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2a.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\testimonial-bdb.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-bdb.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\users\\anh-black-pink-22.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\anh-black-pink-22.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\users\\hinh-nen-lap-top-cute-21.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\hinh-nen-lap-top-cute-21.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\users\\ngolinh.jpg",
+      "PackagePath": "staticwebassets\\img\\users\\ngolinh.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\plugins\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\af.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\af.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ar-dz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-dz.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ar-kw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-kw.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ar-ly.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ly.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ar-ma.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-ma.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ar-sa.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-sa.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ar-tn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar-tn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ar.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ar.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\az.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\az.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\be.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\be.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\bg.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bg.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\bm.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bm.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\bn-bd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn-bd.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\bn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\bo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bo.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\br.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\br.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\bs.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\bs.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ca.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\cs.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cs.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\cv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cv.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\cy.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\cy.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\da.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\da.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\de-at.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-at.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\de-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de-ch.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\de.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\de.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\dv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\dv.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\el.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\el.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-SG.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-SG.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-au.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-au.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ca.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-gb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-gb.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-ie.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-ie.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-il.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-il.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-in.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-in.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\en-nz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\en-nz.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\eo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eo.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\es-do.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-do.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\es-mx.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-mx.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\es-us.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es-us.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\es.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\es.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\et.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\et.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\eu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\eu.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fa.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fa.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fi.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fil.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fil.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fo.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fr-ca.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ca.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fr-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr-ch.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fr.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\fy.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\fy.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ga.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ga.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\gd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gd.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\gl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gl.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\gom-deva.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-deva.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\gom-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gom-latn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\gu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\gu.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\he.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\he.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\hi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hi.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\hr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hr.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\hu.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hu.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\hy-am.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\hy-am.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\id.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\id.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\is.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\is.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\it-ch.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it-ch.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\it.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\it.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ja.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ja.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\jv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\jv.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ka.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ka.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\kk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kk.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\km.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\km.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\kn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\kn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ko.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ko.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ku.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ku.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ky.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ky.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\lb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lb.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\lo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lo.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\lt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lt.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\lv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\lv.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\me.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\me.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\mi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mi.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\mk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mk.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ml.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ml.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\mn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\mr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mr.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ms-my.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms-my.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ms.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ms.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\mt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\mt.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\my.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\my.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\nb.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nb.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ne.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ne.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\nl-be.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl-be.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\nl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nl.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\nn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\nn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\oc-lnc.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\oc-lnc.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\pa-in.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pa-in.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\pl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pl.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\pt.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\pt.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ro.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ro.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ru.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ru.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sd.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sd.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\se.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\se.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\si.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\si.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sk.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sl.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sq.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sq.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr-cyrl.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sr.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ss.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ss.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sv.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sv.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\sw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\sw.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ta.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ta.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\te.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\te.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tet.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tet.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tg.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tg.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\th.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\th.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tk.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tl-ph.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tl-ph.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tlh.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tlh.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tr.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tr.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tzl.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzl.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tzm-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm-latn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\tzm.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\tzm.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ug-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ug-cn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\uk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uk.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\ur.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\ur.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\uz-latn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz-latn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\uz.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\uz.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\vi.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\vi.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\x-pseudo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\x-pseudo.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\yo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\yo.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\zh-hk.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-hk.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\zh-mo.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-mo.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\font\\summernote.hash",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.hash"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\font\\summernote.woff2"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ar-AR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-az-AZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bg-BG.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-bn-BD.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bn-BD.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-bn-BD.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bn-BD.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-bn-BD.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-bn-BD.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ca-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-cs-CZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-da-DK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-de-CH.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-CH.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-de-CH.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-CH.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-de-CH.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-CH.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-de-DE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-el-GR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-en-US.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-en-US.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-en-US.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-en-US.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-en-US.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-en-US.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-es-EU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fa-IR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fi-FI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-fr-FR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-gl-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-he-IL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hr-HR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-hu-HU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-id-ID.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-it-IT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ja-JP.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ko-KR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-lt-LV.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-mn-MN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nb-NO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-nl-NL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pl-PL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-BR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-pt-PT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ro-RO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ru-RU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sk-SK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sl-SI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sr-RS.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-sv-SE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-ta-IN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-th-TH.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-tr-TR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uk-UA.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-uz-UZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-vi-VN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-CN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.js.map",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.js.map"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\lang\\summernote-zh-TW.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\summernote.min.css",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\plugins\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\plugins\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\plugins\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\efood1\\Source\\Foodmenegement\\Web\\wwwroot\\plugins\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
